@@ -480,6 +480,14 @@ img {
   background-image: url(../images/security-3.jpg);
 }
 
+.security_section .security_img-box.i-box-4 {
+  background-image: url(../images/security-5.jpg);
+}
+
+.security_section .security_img-box.i-box-4 {
+  background-image: url(../images/security-4.jpg);
+}
+
 .security_section .security_img-box a {
   opacity: 0;
   text-transform: uppercase;
